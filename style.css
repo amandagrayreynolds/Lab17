@@ -1,0 +1,9 @@
+body{font-family: 'Montserrat', sans-serif;
+width:90%;
+margin:2% auto;}
+#box{width:30%;
+		float:left;
+
+}
+#caption{font-size: 13px;
+width: 90%;}
